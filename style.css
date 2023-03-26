@@ -125,7 +125,7 @@ img{
    top: 100px;
    left: 0;
    color: rgb(248, 243, 103);
-   opacity: .3;
+   opacity: .1;
 }
 .box>p:hover{
 opacity: .1;
